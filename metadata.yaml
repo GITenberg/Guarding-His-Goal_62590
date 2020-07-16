@@ -1,11 +1,14 @@
 _repo: Guarding-His-Goal_62590
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Avison, George
     birthdate: 1885
     gutenberg_agent_id: '36694'
     url: http://www.gutenberg.org/2009/agents/36694
+covers:
+- cover_type: archival
+  image_path: 62590-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62590#Guarding-His-Goal
 gutenberg_issued: '2020-07-09'
 gutenberg_type: Text
 identifiers:
